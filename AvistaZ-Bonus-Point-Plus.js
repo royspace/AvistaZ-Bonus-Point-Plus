@@ -15,7 +15,7 @@
 
 
 (function () {
-    'use strict'; //
+    'use strict';
 
     function createCalculationTable(pointsPerHour) {
         var pointsPerSecond = pointsPerHour / 3600;
