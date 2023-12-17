@@ -1,5 +1,12 @@
 # AvistaZ-Bonus-Point-Plus
-Adds a "Shortfall" and "Time Calculation" to Exchange table, Adds BP per second, minute,...
+
+
+<a href="https://www.buymeacoffee.com/royspace" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Feature
+
+- Adds a "Shortfall" and "Time Calculation" to the Exchange table
+- Adds Bonus Points per second, minute,...
 
 ## Installation
 1. Install the browser extension [Tampermonkey](https://www.tampermonkey.net/)
