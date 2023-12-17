@@ -10,7 +10,7 @@ Once the user script is installed, navigate to your bonus point page and you wil
 
 **__Screenshot__**: *Some information has been blurred due to tracker privacy*
 
-
+<img width="800" alt="image" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTQWowVfGuc5D-Sk0ZtK5R39o2M1o-WxKQclw6C0nkhp3XTb99Kgd3Wk21-ylmA740P0CQz7RP9S-nryJrgZaIO5iIM_Q=s1600">
 
 
 ## Disclaimer
