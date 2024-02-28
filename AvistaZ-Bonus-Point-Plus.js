@@ -34,12 +34,18 @@
         var headerRow = tableHeader.insertRow();
         var headerCellLabel = headerRow.insertCell();
         var headerCellValue = headerRow.insertCell();
-        headerCellLabel.style.backgroundColor = 'lightblue';
-        headerCellLabel.style.padding = '10px';
-        headerCellValue.style.backgroundColor = 'lightblue';
-        headerCellValue.style.padding = '10px';
+
         headerCellLabel.innerHTML = 'Calculation';
+        headerCellLabel.style.backgroundColor = '#001F3F';
+        headerCellLabel.style.fontWeight = 'bold';
+        headerCellLabel.style.padding = '10px';
+
         headerCellValue.innerHTML = 'Value';
+        headerCellValue.style.backgroundColor = '#001F3F';
+        headerCellValue.style.fontWeight = 'bold';
+        headerCellValue.style.padding = '10px';
+
+
 
         var tableBody = table.createTBody();
 
@@ -47,12 +53,17 @@
             var row = tableBody.insertRow();
             var cellLabel = row.insertCell(0);
             var cellValue = row.insertCell(1);
+
             cellLabel.innerHTML = label;
-            cellValue.innerHTML = value.toFixed(2);
             cellLabel.style.textAlign = 'left';
-            cellValue.style.textAlign = 'right';
             cellLabel.style.paddingLeft = '10px';
+            cellLabel.style.fontWeight = '400';
+
+
+            cellValue.innerHTML = value.toFixed(2);
+            cellValue.style.textAlign = 'right';
             cellValue.style.paddingRight = '10px';
+            cellValue.style.fontWeight = '550';
         }
 
         addRow('Points Per Second', pointsPerSecond);
