@@ -2,7 +2,7 @@
 // @name         AvistaZ Bonus Point Plus+
 // @namespace    https://github.com/royspace/AvistaZ-Bonus-Point-Plus
 // @homepage     https://github.com/royspace/AvistaZ-Bonus-Point-Plus
-// @version      0.5
+// @version      0.4
 // @author       Roy
 // @description  Adds a "Shortfall" and "Time Calculation" to Exchange table, Adds BP per second, minute,...
 // @match        https://avistaz.to/profile/*/bonus
